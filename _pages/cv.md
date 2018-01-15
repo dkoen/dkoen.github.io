@@ -11,49 +11,48 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Premedical Post Baccalaureate, Columbia University, Expected 2018
+  * Dean's List, GPA: 3.94 
+* B.S. in Mathematics, Brandeis University, 2014
+  * Dean's List, GPA: 3.5, Mathematics Major GPA: 3.7 
+  * Wrote about Astrophysics for the school newspaper, The Hoot
+  * Notable Coursework: Advanced Calculus, Advanced Physics Lab, Astrophpysics, 
+  Complex Analysis, Independent Study in Combinatorics, Intermediate Mandarin, 
+  Introduction to Combinatorics, Introduction to Quantum Theory, Mathematical Logic, 
+  Rings and Fields 
+* Visiting Student Coursework: 
+  * Tufts Coursework: Differential Equations 
+  * Columbia Extracurricular Coursework: Introduction to Numerical Methods, Making 
+  and Breaking Codes, Data Structures 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* January 2016 - January 2017: Software and Data Infrastructure Engineer, TripleLift 
+  * Helped to build current data infrastructure using Spark, Kafka, ZooKeeper, 
+  Amazon EMR, DataBricks, MySQL and Redshift
+  * Built reporting to help automate error detection and malformed data. 
+  * Worked with Data Science team to assist in model building  
+  * Co-Lead initiative to hire interns for all engineering related departments 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* January 2015 - September 2015: Software Engineering Intern, TripleLift 
+  * Backend software engineer in Java and Data Scientist. 
+  * Worked closely with MySQL and Redshift databases as a backend engineering for 
+  the data pipeline. 
+  * Investigated discrepancies and automated discrepancy detection. 
+  * Worked on Java high performance optimization and utilized data to improve 
+  technologies. 
+  * Rearchitectured the way data are stored and deleted from the database to deal 
+  with issues of scale.
+
+* May 2013 - September 2013: Summer Student Researcher, Brandeis University 
+  Worked in Combinatorial research at Brandeis University where undergraduate mathematics research positions were previously not offered by reaching out to the department and applying for grants. Proved various extensions of the Graph Minor Theorem (Robertson & Seymour 2004) more pertinent to research in Computer Science and learned to use LaTeX and IPE to write academic research papers.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* May 2012 - May 2013: Advanced Lab Assistant, Radio Astronomy / Fourier Analysis, 
+Physics, Brandeis University 
+  Analyzed data from recent experiments done with the Very Large Array and Very Long Baseline Array using Astronomical Image Processing System (AIPS) and Difmap.
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
