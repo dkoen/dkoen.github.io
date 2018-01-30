@@ -45,11 +45,11 @@ Work experience
   with issues of scale.
 
 * May 2013 - September 2013: Summer Student Researcher, Brandeis University 
-  Worked in Combinatorial research at Brandeis University where undergraduate mathematics research positions were previously not offered by reaching out to the department and applying for grants. Proved various extensions of the Graph Minor Theorem (Robertson & Seymour 2004) more pertinent to research in Computer Science and learned to use LaTeX and IPE to write academic research papers.
+  * Worked in Combinatorial research at Brandeis University where undergraduate mathematics research positions were previously not offered by reaching out to the department and applying for grants. Proved various extensions of the Graph Minor Theorem (Robertson & Seymour 2004) more pertinent to research in Computer Science and learned to use LaTeX and IPE to write academic research papers.
   
 * May 2012 - May 2013: Advanced Lab Assistant, Radio Astronomy / Fourier Analysis, 
 Physics, Brandeis University 
-  Analyzed data from recent experiments done with the Very Large Array and Very Long Baseline Array using Astronomical Image Processing System (AIPS) and Difmap.
+  * Analyzed data from recent experiments done with the Very Large Array and Very Long Baseline Array using Astronomical Image Processing System (AIPS) and Difmap.
   
 Publications
 ======
