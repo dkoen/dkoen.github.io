@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "BRANDEIS PROFESSOR ASSISTS IN QUASAR DISCOVERYBRANDEIS PROFESSOR ASSISTS IN QUASAR DISCOVERY"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'The x-ray emitting quasar, named 1428+4217 for its location in the sky, is the most distant x-ray emitting quasar discovered thus far at an astonishing 12.4 billion light years away.'
+date: 2013-01-24
+venue: 'The Brandeis Hoot'
+paperurl: 'http://brandeishoot.com/2013/01/24/brandeis-professor-assists-in-quasar-discovery/'
+citation: ''
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
