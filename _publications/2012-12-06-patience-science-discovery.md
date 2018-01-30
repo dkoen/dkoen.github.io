@@ -1,7 +1,7 @@
 ---
 title: "Patience in Scientific Discovery"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2012-12-06-patience-science-discovery
 excerpt: 'While finding organic molecules on Mars may be indicative of life, it is not necessarily so.'
 date: 2012-12-06
 venue: 'The Brandeis Hoot'
