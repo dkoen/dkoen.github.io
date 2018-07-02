@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ### Online CVs 
-* [LinkedIn](www.linkedin.com/in/daniel-koenigsberg) 
+* [LinkedIn](https://www.linkedin.com/in/daniel-koenigsberg) 
 * [AngelList](https://angel.co/daniel-koenigsberg) 
 
 ### Columbia Society for Humanities 
