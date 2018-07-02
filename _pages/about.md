@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+I am a recent graduate of the Certificate in Premedical Sciences program of Columbia University (in the city of New York). I am interested in the application of mathematics and technology to medicine. I have previous research experience in Combinatorics and Astrophysics. I worked as a software engineer in scalable data infrastructure at a native advertising start up called, Triplelift. I also write poetry, music, and short stories. 
+
 ### Online CVs 
 * [LinkedIn](https://www.linkedin.com/in/daniel-koenigsberg) 
 * [AngelList](https://angel.co/daniel-koenigsberg) 
