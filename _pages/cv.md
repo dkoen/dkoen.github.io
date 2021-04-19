@@ -11,6 +11,8 @@ redirect_from:
 
 Education
 ======
+* Medical Degree Candidate, Albert Einstein College of Medicine, 2019-Present (expected 2024)  
+  * President of the Adolescent Medicine Interest Group 
 * Certificate in Premedical Sciences, Columbia University, 2018
   * Dean's List, GPA: 3.84, MCAT: 520 (98th %tile)  
 * B.S. in Mathematics, Brandeis University, 2014
@@ -27,6 +29,12 @@ Education
 
 Work experience
 ======
+* January 2019 - Present: Research Assistant, Neuropathology Brain Bank, Icahn Medical School 
+  * Organized data labeling effort as part of a project to build an AI to identify α-synuclein deposits funded by the MJFF.
+  * Built a rudimentary AI using a resnet50 to classify tau on a limited data set of only 500 images.
+  * Gave presentations on research in AI and computer vision.
+
+
 * January 2016 - January 2017: Software and Data Infrastructure Engineer, TripleLift 
   * Helped to build current data infrastructure using Spark, Kafka, ZooKeeper, 
   Amazon EMR, DataBricks, MySQL and Redshift
