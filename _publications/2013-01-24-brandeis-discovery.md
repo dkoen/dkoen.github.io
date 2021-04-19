@@ -1,5 +1,5 @@
 ---
-title: "BRANDEIS PROFESSOR ASSISTS IN QUASAR DISCOVERY"
+title: "Brandeis Professor Assists in Quasar Discovery"
 collection: publications
 permalink: /publication/2013-01-24-brandeis-discovery
 excerpt: 'The x-ray emitting quasar, named 1428+4217 for its location in the sky, is the most distant x-ray emitting quasar discovered thus far at an astonishing 12.4 billion light years away.'
