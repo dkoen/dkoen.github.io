@@ -24,8 +24,7 @@ Education
   Rings and Fields 
 * Visiting Student Coursework: 
   * Tufts Coursework: Differential Equations 
-  * Columbia Extracurricular Coursework: Introduction to Numerical Methods, Making 
-  and Breaking Codes, Data Structures 
+  * Columbia Extracurricular Coursework: Introduction to Neurobiology, Computational Neuro: Circuits in the Brain, Applied Functional Analysis, Data Structures; Making, Breaking Codes; Introduction to Numeric Methods
 
 Work experience
 ======
