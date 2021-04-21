@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "I am a student at Albert Einstein College of Medicine (expected MD 2024) and a recent graduate of the Certificate in Premedical Sciences program of Columbia University (in the city of New York). I am interested in the application of mathematics and technology to medicine and am a current research assisstant in the Crary Lab at Mount Sinai studying applications of machine learning in neuropathology. I have previous research experience in Combinatorics and Astrophysics. I worked as a software engineer in scalable data infrastructure at a native advertising start up called Triplelift. I also write poetry, music, and short stories."
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
