@@ -6,5 +6,5 @@ excerpt: 'While finding organic molecules on Mars may be indicative of life, it 
 date: 2012-12-06
 venue: 'The Brandeis Hoot'
 paperurl: 'http://www.thebrandeishoot.com/articles/12835'
-citation: 'Koenigsberg, Daniel. (2012). &quot;Patience in Scientific Discovery.&quot; <i>Brandeis Hoot</i>. 1(2).'
+citation: 'Koenigsberg, Daniel. (2012). &quot;Patience in Scientific Discovery.&quot; <i>Brandeis Hoot</i>.'
 ---
