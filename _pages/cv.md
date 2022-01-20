@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Medical Degree Candidate, Albert Einstein College of Medicine, 2019-Present (expected 2024)  
+  * Einstein Research Fellowship (2021-2022) 
   * President of the Adolescent Medicine Interest Group 
 * Certificate in Premedical Sciences, Columbia University, 2018
   * Dean's List, GPA: 3.84, MCAT: 520 (98th %tile)  
