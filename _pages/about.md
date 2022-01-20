@@ -22,6 +22,5 @@ I am a student at [Albert Einstein College of Medicine](https://einsteinmed.edu/
 ## MOTIVATE Lab: 
 * [About Me](https://med.nyu.edu/jaylab/team-alumni) 
 
-## Columbia Society for Humanities 
-* [About Me](https://www.columbiasocietyformedicalhumanities.org/daniel-koenigsberg) 
-* [Poetry](https://static1.squarespace.com/static/598e1c0b7131a5325a809746/t/5a70849e9140b7bad714fed8/1517323422552/daniel+k+North+American+Review+Submissions+.pdf) 
+## Bragging Rights: 
+* [Corrected AMBOSS](/files/AmbossProof.pdf)
