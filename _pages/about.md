@@ -23,4 +23,4 @@ I am a student at [Albert Einstein College of Medicine](https://einsteinmed.edu/
 * [About Me](https://med.nyu.edu/jaylab/team-alumni) 
 
 ## Bragging Rights: 
-* [Corrected AMBOSS](/files/AmbossProof.png)
+* [Submitted a Correction to AMBOSS](/files/AmbossProof.png)
