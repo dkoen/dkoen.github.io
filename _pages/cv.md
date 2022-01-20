@@ -15,6 +15,9 @@ Education
   * President of the Adolescent Medicine Interest Group 
 * Certificate in Premedical Sciences, Columbia University, 2018
   * Dean's List, GPA: 3.84, MCAT: 520 (98th %tile)  
+* Visiting Student Coursework (2013-2018): 
+  * Columbia Extracurricular Coursework: Introduction to Neurobiology, Computational Neuro: Circuits in the Brain, Applied Functional Analysis, Data Structures; Making, Breaking Codes; Introduction to Numeric Methods
+  * Tufts Coursework: Differential Equations 
 * B.S. in Mathematics, Brandeis University, 2014
   * Dean's List, GPA: 3.5, Mathematics Major GPA: 3.7 
   * Wrote about Astrophysics for the school newspaper, The Hoot
@@ -22,9 +25,7 @@ Education
   Complex Analysis, Independent Study in Combinatorics, Intermediate Mandarin, 
   Introduction to Combinatorics, Introduction to Quantum Theory, Mathematical Logic, 
   Rings and Fields 
-* Visiting Student Coursework: 
-  * Tufts Coursework: Differential Equations 
-  * Columbia Extracurricular Coursework: Introduction to Neurobiology, Computational Neuro: Circuits in the Brain, Applied Functional Analysis, Data Structures; Making, Breaking Codes; Introduction to Numeric Methods
+
 
 Work experience
 ======
