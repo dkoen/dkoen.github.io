@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a student at Albert Einstein College of Medicine (expected MD 2024) and a recent graduate of the Certificate in Premedical Sciences program of Columbia University (in the city of New York). I am interested in the application of mathematics and technology to medicine and am a current research assisstant in the [Crary Lab](http://www.crarylab.org/home.html) at Mount Sinai studying applications of machine learning in neuropathology. I have previous research experience in Combinatorics and Astrophysics. I worked as a software engineer in scalable data infrastructure at a native advertising start up called [Triplelift](https://triplelift.com/). I also write poetry, music, and short stories. 
+I am a student at [Albert Einstein College of Medicine](https://einsteinmed.edu/) (expected MD 2024) and a recent graduate of the Certificate in Premedical Sciences program of Columbia University (in the city of New York). I am interested in the application of mathematics and technology to medicine and am a current research assisstant in the [Crary Lab](http://www.crarylab.org/home.html) at Mount Sinai studying applications of machine learning in neuropathology. I have previous research experience in Combinatorics and Astrophysics. I worked as a software engineer in scalable data infrastructure at a native advertising start up called [Triplelift](https://triplelift.com/). I also write poetry, music, and short stories. 
 
 ## Online CVs 
 * [Google Scholar](https://scholar.google.com/citations?user=A_xgHTAAAAAJ&hl=en&oi=ao)
