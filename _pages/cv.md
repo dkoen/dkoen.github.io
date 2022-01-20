@@ -29,10 +29,15 @@ Education
 Work experience
 ======
 * January 2019 - Present: Research Assistant, Neuropathology Brain Bank, Icahn Medical School 
-  * Organized data labeling effort as part of a project to build an AI to identify α-synuclein deposits funded by the MJFF.
-  * Built a rudimentary AI using a resnet50 to classify tau on a limited data set of only 500 images.
-  * Gave presentations on research in AI and computer vision.
-
+  * Applied Attention Assisted Multiple Instance Learning to Complex Datasets to Discern Post-hoc Regions of Interest 
+  * Organized data labeling effort as part of a project to build an AI to identify α-synuclein deposits funded by the MJFF 
+  * Assisted in the Development of a Novel Attention Assisted Multiple Instance Classifier Using Graph Neural Networks 
+  * Built a Segmentaiton Model using Hypercube Representations of Whole Slide Images 
+  * Pursued Several Certificates in Machine Learning from Coursera 
+    * [Build Better Generative Adversarial Networks (GANs)](https://www.coursera.org/account/accomplishments/certificate/CQRYD3S4CNCM) 
+    * [Build Basic Generative Adversarial Networks (GANs)](https://www.coursera.org/account/accomplishments/certificate/8JHMSL8FJ2N4)
+    * [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/certificate/R39SY5M7RPUR) 
+    * [AI for Medical Diagnosis](https://www.coursera.org/account/accomplishments/certificate/EJG9LGXCYGUF) 
 
 * January 2016 - January 2017: Software and Data Infrastructure Engineer, TripleLift 
   * Helped to build current data infrastructure using Spark, Kafka, ZooKeeper, 
