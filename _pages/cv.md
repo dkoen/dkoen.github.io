@@ -43,7 +43,7 @@ Work experience
 
 * January 2016 - January 2017: Software and Data Infrastructure Engineer, TripleLift 
   * Helped to build current data infrastructure using Spark, Kafka, ZooKeeper, 
-  Amazon EMR, DataBricks, MySQL and Redshift
+  Amazon EMR, DataBricks, MySQL, and Redshift
   * Built reporting to help automate error detection and malformed data. 
   * Worked with Data Science team to assist in model building  
   * Co-Lead initiative to hire interns for all engineering related departments 
