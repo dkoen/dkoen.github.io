@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Today in Daniel Gordon Koenigsberg"
 title_separator          : "-"
 name                     : &name "Daniel G. Koenigsberg"
-description              : &description "Premed student at Columbia University."
+description              : &description "Medical Student at Albert Einstein College of Medicine"
 url                      : https://dkoen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "dkoen"
   google_plus      :
   keybase          :
   instagram        :
