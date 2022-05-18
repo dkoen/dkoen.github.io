@@ -29,7 +29,7 @@ I am a student at [Albert Einstein College of Medicine](https://einsteinmed.edu/
 
 ### Computational Neuroscience 
 
-In one of my favorite classes we were asked as a final project to, create a neural encoder utilizing a spectrotemporal filter and array of Leaky IAF "trigger and fire" neurons. 
+In one of my favorite classes we were asked as a final project to create a neural encoder utilizing a spectrotemporal filter and array of Leaky IAF "trigger and fire" neurons. 
 
 <p align="center">
   <img src="/images/tem-iaf-rt.png">
