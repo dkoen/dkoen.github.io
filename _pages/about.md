@@ -24,3 +24,13 @@ I am a student at [Albert Einstein College of Medicine](https://einsteinmed.edu/
 
 ## Bragging Rights: 
 * [Submitted a Correction to AMBOSS](/files/AmbossProof.png)
+
+## Coursework Projects: 
+
+### Computational Neuroscience 
+
+![LeakyIAF](/images/tem-iaf-rt.png)
+![CircuitEncoder](/images/CircuitEncoder.png)
+![STRFinit](/images/STRF\ Initial\ Filter.png)
+![Encoding](/images/LeakyIAFEncoding.png)
+![Recovery](/images/RecoveredFilter.png)
