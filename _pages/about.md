@@ -27,7 +27,7 @@ I am a student at [Albert Einstein College of Medicine](https://einsteinmed.edu/
 
 ## Coursework Projects: 
 
-### Computational Neuroscience 
+### Computational Neuroscience 2019 
 
 In one of my favorite classes we were asked as a final project to create a neural encoder utilizing a spectrotemporal filter and array of [Noisy Leaky IAF](https://mathematical-neuroscience.springeropen.com/articles/10.1186/2190-8567-1-7) "trigger and fire" neurons. The leaky IAF is an encoder of a signal into a train of spikes that is meant to approximate the tradiational Hodgkin and Huxley neuron quite well, by preserving the nonlinear nature of the Hodgkin and Huxley neuron without the sacrifice of needless computation time. In this way neurons translate amplitude signals into a frequency based sampling space. 
 
@@ -54,3 +54,31 @@ Above is the resulting spike train of passing the signal (on top) through the ci
 </p>
 
 Once we have the spike times we are able to recover an approximation of the spectrotemporal filter. Some discrepancies exist where the filter value changes suddenly (i.e. where it approaches its minimum of -10). This is because in the filter is effectively zeroes and its bandwidth is effectively infinite. This method is limited computationally wherever the bandwidth is sufficiently high, however the approximation of the filter is still quite good. This approach can be used to describe neurological phenotypes in various disease states [(as is the case here)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2474630/). 
+
+### Advanced Physics Lab 2013 
+
+In one of my favorite experiments way back in college we were tasked with building a [PID controller](https://en.wikipedia.org/wiki/PID_controller#:~:text=A%20proportional%E2%80%93integral%E2%80%93derivative%20controller,continuously%20calculates%20an%20error%20value). The idea behind the PID controller is that you have a real value you want your program to accomplish but you only have access to some kind of power which moves you in the direction of that real world value. In the real world things like momentum, resistance, and error complicate problems and simply setting your power proportional to the difference between your desired real world value and the current one doesn't work optimally. Take for instance an air conditioning unit. The AC unit only knows different power settings, what the current temperature is, and what the desired temperature is. If it rapidly cools down a room to a desired temperture it may overshoot. The process of optimally approaching a given value is far more important when applied to autopilot systems or robots used in surgery. 
+
+<p align="center">
+  <img src="/images/PIDDiagram.png">
+</p>
+
+In a PID controller the difference between your desired value and your current value is referred to as the error (this can be confusing because there is probably error between your current value and your measured current value). We set our power proportionally to the error, the integral of the error over time, and the derivative of the error over time (all approximated numerically). 
+
+<p align="center">
+  <img src="/images/PIDControllerFunction.png">
+</p>
+
+This gives us an equation with a bunch of mysterious constants. The job of optimally determining the best values has been done for us by [Ziegler and Nichols](https://en.wikipedia.org/wiki/Ziegler%E2%80%93Nichols_method). We must simply find the value for which the proportional portion of our PID creates a simple wave. This can be done by fine tuning and inspection, or robustly it can be done by taking the fast fourier transform of the data and finding the frequency with the highest peak. 
+
+<p align="center">
+  <img src="/images/PIDSetup.png">
+</p>
+
+The experiment was conducted and programmed in labview where a given temperature was set for a [thermoelectric generator](https://en.wikipedia.org/wiki/Thermoelectric_generator). 
+
+<p align="center">
+  <img src="/images/FinalPID.png">
+</p>
+
+In the above there is a tight approximation of 35 degrees celcius by the PID controller (top right). The fast fourier transform is also displayed showing a peak of about 3.2 Hz (bottom left). This enabled us to optimally set the coefficients (right side) and build a very reactive PID controller. 
