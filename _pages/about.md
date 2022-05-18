@@ -47,7 +47,7 @@ Above is a schema of the proposed project. A signal is passed in the two dimensi
   <img src="/images/STRF%20Initial%20Filter.png">
 </p>
 
-Above is a diagram of the initial spectorotemporal filter. Different two dimensional and three dimensional views are provided. 
+Above is a diagram of the initial spectrotemporal filter. Different two dimensional and three dimensional views are provided. 
 
 <p align="center">
   <img src="/images/LeakyIAFEncoding.png">
