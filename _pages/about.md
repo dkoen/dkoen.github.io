@@ -29,13 +29,7 @@ I am a student at [Albert Einstein College of Medicine](https://einsteinmed.edu/
 
 ### Computational Neuroscience 
 
-In one of my favorite classes we were asked as a final project to create a neural encoder utilizing a spectrotemporal filter and array of Leaky IAF "trigger and fire" neurons. 
-
-<p align="center">
-  <img src="/images/tem-iaf-rt.png">
-</p>
-
-The leaky IAF is an encoder of a signal into a trian of spikes that is meant to approximate the tradiational Hodgkin and Huxley neuron quite well, by preserving the nonlinear nature of the Hodgkin and Huxley neuron without the sacrifice of needless computation time. In this way neurons translate amplitude signals into a frequency based sampling space. 
+In one of my favorite classes we were asked as a final project to create a neural encoder utilizing a spectrotemporal filter and array of [Noisy Leaky IAF](https://mathematical-neuroscience.springeropen.com/articles/10.1186/2190-8567-1-7) "trigger and fire" neurons. The leaky IAF is an encoder of a signal into a train of spikes that is meant to approximate the tradiational Hodgkin and Huxley neuron quite well, by preserving the nonlinear nature of the Hodgkin and Huxley neuron without the sacrifice of needless computation time. In this way neurons translate amplitude signals into a frequency based sampling space. 
 
 <p align="center">
   <img src="/images/CircuitEncoder.png">
