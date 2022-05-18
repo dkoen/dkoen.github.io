@@ -59,4 +59,4 @@ Above is the resulting spike train of passing the signal (on top) through the ci
   <img src="/images/RecoveredFilter.png">
 </p>
 
-Once we have the spike times we are able to recover an approximation of the spectrotemporal filter. Some discrepancies exist where the filter value was zeroed. This is because in the filter the bandwidth is effectively infinite. The method is limited computationally whereever the bandwidth is too high, however the approximation of the filter is still quite good. 
+Once we have the spike times we are able to recover an approximation of the spectrotemporal filter. Some discrepancies exist where the filter value changes suddenly (i.e. where it approaches its minimum of -10). This is because in the filter is effectively zeroes and its bandwidth is effectively infinite. This method is limited computationally wherever the bandwidth is sufficiently high, however the approximation of the filter is still quite good. This approach can be used to describe neurological phenotypes in various disease states [(as is the case here)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2474630/). 
