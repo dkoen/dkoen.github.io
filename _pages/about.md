@@ -31,6 +31,6 @@ I am a student at [Albert Einstein College of Medicine](https://einsteinmed.edu/
 
 ![LeakyIAF](/images/tem-iaf-rt.png)
 ![CircuitEncoder](/images/CircuitEncoder.png)
-![STRFinit](/images/STRF Initial Filter.png)
+![STRFinit](/images/STRF%20Initial%20Filter.png)
 ![Encoding](/images/LeakyIAFEncoding.png)
 ![Recovery](/images/RecoveredFilter.png)
