@@ -72,13 +72,13 @@ In a PID controller the difference between your desired value and your current v
 This gives us an equation with a bunch of mysterious constants. The job of optimally determining the best values has been done for us by [Ziegler and Nichols](https://en.wikipedia.org/wiki/Ziegler%E2%80%93Nichols_method). We must simply find the value for which the proportional portion of our PID creates a simple wave. This can be done by fine tuning and inspection, or robustly it can be done by taking the fast fourier transform of the data and finding the frequency with the highest peak. 
 
 <p align="center">
-  <img src="/images/PIDSetup.png">
+  <img src="/images/PIDSetup.jpg">
 </p>
 
 The experiment was conducted and programmed in labview where a given temperature was set for a [thermoelectric generator](https://en.wikipedia.org/wiki/Thermoelectric_generator). 
 
 <p align="center">
-  <img src="/images/FinalPID.png">
+  <img src="/images/FinalPID.jpg">
 </p>
 
 In the above there is a tight approximation of 35 degrees celcius by the PID controller (top right). The fast fourier transform is also displayed showing a peak of about 3.2 Hz (bottom left). This enabled us to optimally set the coefficients (right side) and build a very reactive PID controller. 
