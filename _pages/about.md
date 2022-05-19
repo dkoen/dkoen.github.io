@@ -71,7 +71,7 @@ In a PID controller the difference between your desired value and your current v
   <img src="/images/PIDControllerFunction.png">
 </p>
 
-This gives us an equation with a bunch of mysterious constants. The job of optimally determining the best values has been done for us by [Ziegler and Nichols](https://en.wikipedia.org/wiki/Ziegler%E2%80%93Nichols_method). We must simply find the value for which the proportional portion of our PID creates a simple wave. This can be done by fine tuning and inspection, or robustly it can be done by taking the fast Fourier transform of the data and finding the frequency with the highest peak. 
+This gives us an equation with a bunch of mysterious constants. The job of optimally determining the best values has been done for us by <a href=https://en.wikipedia.org/wiki/Ziegler%E2%80%93Nichols_method>Ziegler and Nichols</a>. We must simply find the value for which the proportional portion of our PID creates a simple wave. This can be done by fine tuning and inspection, or robustly it can be done by taking the fast Fourier transform of the data and finding the frequency with the highest peak. 
 
 <p align="center">
   <img src="/images/PIDSetup.jpg">
