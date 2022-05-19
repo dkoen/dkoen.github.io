@@ -399,3 +399,22 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/*
+   details elements
+   ========================================================================== */
+
+details > summary {
+  padding: 4px;
+  color: white;
+  width: max-content; 
+  background-color: #3366cc; 
+  border: none;
+  cursor: pointer;
+}
+
+details > p {
+  padding: 2%;
+  text-indent: 2%;
+  margin: 0;
+}
