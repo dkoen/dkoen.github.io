@@ -8,7 +8,7 @@ date: 2022-07-31
 location: "Virtual Event"
 ---
 
-https://alz.confex.com/alz/2022/meetingapp.cgi/Paper/67836
+[More information here](https://alz.confex.com/alz/2022/meetingapp.cgi/Paper/67836)
 
 Background: Age-related cognitive impairment is complex and multifactorial, with numerous underlying and frequently co-morbid pathological correlates. Given that conventional measures are imperfect predictors of cognitive impairment, improved approaches are urgently needed to identify correlated histopathological changes in an unbiased way. 
 
