@@ -13,7 +13,7 @@ I am a student at [Albert Einstein College of Medicine](https://einsteinmed.edu/
 ## Bragging Rights: I... 
 * Submitted a Correction to AMBOSS<sup>[1](/files/AmbossProof.png)</sup>
 * Made this website and my wedding website<sup>[2](https://danielkirsten.com)</sup>
-* Own my very own [canoe]<sup>[3](/files/canoeproof.jpg)</sup> 
+* Own my very own canoe<sup>[3](/files/canoeproof.jpg)</sup> 
 * Love my pets<sup>[4](/files/birthdaydogandcat.jpg)</sup> and travel<sup>[5](/files/lilycold.jpg)</sup> with them
 * Collect old books<sup>[6](/files/books1.jpg),[7](/files/books2.jpg),[8](/files/books3.jpg),[9](/files/books4.jpg),[10](/files/books5.jpg)</sup> and other old things<sup>[11](/files/typewriter.JPG)</sup>
 * Made a ton of origami<sup>[12](/files/origami1.jpg),[13](/files/origami2.jpg),[14](/files/origami3.JPG),[15](/files/origami4.jpg),[16](/files/origami5.jpg)</sup>
