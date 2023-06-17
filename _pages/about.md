@@ -13,8 +13,8 @@ I am a student at [Albert Einstein College of Medicine](https://einsteinmed.edu/
 ## Bragging Rights: 
 * [Submitted a Correction to AMBOSS](/files/AmbossProof.png)
 * Made this website and my [wedding website](https://danielkirsten.com)
-* I own my very own [canoe](/files/canoeproof.jpg).
-* I love my [pets](/files/birthdaydogandcat.jpg) and [travel](/files/lilycold.jpg) with them. 
+* I own my very own [canoe](/files/canoeproof.jpg) 
+* I love my [pets](/files/birthdaydogandcat.jpg) and [travel](/files/lilycold.jpg) with them 
 
 ## Einstein Ad Libitum: 
 * [Website](https://www.einsteinmed.edu/students/clubs/ad-libitum/default.aspx?id=15486) 
