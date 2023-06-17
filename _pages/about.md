@@ -1,4 +1,4 @@
-gma---
+---
 permalink: /
 title: "About me"
 excerpt: "Learn about DGK"
@@ -15,9 +15,9 @@ I am a student at [Albert Einstein College of Medicine](https://einsteinmed.edu/
 * I made this website and my [wedding website](https://danielkirsten.com)
 * I own my very own [canoe](/files/canoeproof.jpg) 
 * I love my [pets](/files/birthdaydogandcat.jpg) and [travel](/files/lilycold.jpg) with them
-* I collect old books[1](/files/books1.jpg),[2](/files/books2.jpg),[3](/files/books3.jpg),[4](/files/books4.jpg),[5](/files/books5.jpg) and other old things[1](/files/typewriter.JPG)
-* I've made a ton of origami[1](/files/origami1.jpg),[2](/files/origami2.jpg),[3](/files/origami3.jpg),[4](/files/origami4.jpg),[5](/files/origami5.jpg)
-* I love to bake[1](/files/baking1.jpg),[2](/files/baking2.jpg) with my partner 
+* I collect old books<sup>[1](/files/books1.jpg),[2](/files/books2.jpg),[3](/files/books3.jpg),[4](/files/books4.jpg),[5](/files/books5.jpg)</sup> and other old things<sup>[1](/files/typewriter.JPG)</sup>
+* I've made a ton of origami<sup>[1](/files/origami1.jpg),[2](/files/origami2.jpg),[3](/files/origami3.jpg),[4](/files/origami4.jpg),[5](/files/origami5.jpg)</sup>
+* I love to bake<sup>[1](/files/baking1.jpg),[2](/files/baking2.jpg)</sup> and grow plants<sup>[1](/files/plants.jpg)</sup> with my partner 
 * I once wrote a [book](/files/Java_Primer_for_the_Impatientthanks_Thanks_to_Frank_Cardillo_for_being_my_guinea_pig___Copy_.pdf) of lessons to teach my friend how to program in Java (who is now doing very well working as a software engineer). 
 
 ## Einstein Ad Libitum: 
