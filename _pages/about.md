@@ -12,7 +12,7 @@ I am a student at [Albert Einstein College of Medicine](https://einsteinmed.edu/
 
 ## Bragging Rights: 
 * [Submitted a Correction to AMBOSS](/files/AmbossProof.png)
-* Made this website and my [wedding website](https://danielkirsten.com)
+* I made this website and my [wedding website](https://danielkirsten.com)
 * I own my very own [canoe](/files/canoeproof.jpg) 
 * I love my [pets](/files/birthdaydogandcat.jpg) and [travel](/files/lilycold.jpg) with them
 * I once wrote a [book](/files/Java_Primer_for_the_Impatientthanks_Thanks_to_Frank_Cardillo_for_being_my_guinea_pig___Copy_.pdf) of lessons to teach my friend how to program in Java (who is now doing very well working as a software engineer). 
