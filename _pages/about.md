@@ -10,18 +10,15 @@ redirect_from:
 
 I am a student at [Albert Einstein College of Medicine](https://einsteinmed.edu/) (expected MD 2024) and a recent graduate of the [Certificate in Premedical Sciences](https://gs.columbia.edu/content/postbac-premed-program) program of Columbia University. I am interested in the application of mathematics and technology to medicine and am a current research assistant in the [Crary Lab](http://www.crarylab.org/home.html) at Mount Sinai studying applications of machine learning in neuropathology. I have previous research experience in Combinatorics and Astrophysics. I worked as a software engineer in scalable data infrastructure at a native advertising start up called [Triplelift](https://triplelift.com/). I also write poetry, music, and short stories. 
 
-## Einstein Ad Libitum: 
-* [Website](https://www.einsteinmed.edu/students/clubs/ad-libitum/default.aspx?id=15486) 
-* [Vol 19 Spring 21 (Two Poems)](https://www.einsteinmed.edu/docs/Students/Clubs/Ad-libitum/ad-libitum-2021.pdf) 
-
-## MOTIVATE Lab: 
-* [About Me](https://med.nyu.edu/jaylab/team-alumni) 
-
 ## Bragging Rights: 
 * [Submitted a Correction to AMBOSS](/files/AmbossProof.png)
 * Made this website and my [wedding website](https://danielkirsten.com)
 * I own my very own [canoe](/files/canoeproof.jpg).
 * I love my [pets](/files/birthdaydogandcat.jpg) and [travel](/files/lilycold.jpg) with them. 
+
+## Einstein Ad Libitum: 
+* [Website](https://www.einsteinmed.edu/students/clubs/ad-libitum/default.aspx?id=15486) 
+* [Vol 19 Spring 21 (Two Poems)](https://www.einsteinmed.edu/docs/Students/Clubs/Ad-libitum/ad-libitum-2021.pdf) 
 
 ## Coursework Projects: 
 
@@ -83,3 +80,6 @@ The experiment was conducted and programmed in labVIEW where a given temperature
 
 In the above there is a tight approximation of 35 degrees Celsius by the PID controller (top right). The fast Fourier transform is also displayed showing a peak of about 3.2 Hz (bottom left). This enabled us to optimally set the coefficients (right side) and build a very reactive PID controller. 
 </details> 
+
+## MOTIVATE Lab: 
+* [About Me](https://med.nyu.edu/jaylab/team-alumni) 
