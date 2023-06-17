@@ -10,19 +10,16 @@ redirect_from:
 
 I am a student at [Albert Einstein College of Medicine](https://einsteinmed.edu/) (expected MD 2024) and a recent graduate of the [Certificate in Premedical Sciences](https://gs.columbia.edu/content/postbac-premed-program) program of Columbia University. I am interested in the application of mathematics and technology to medicine and am a current research assistant in the [Crary Lab](http://www.crarylab.org/home.html) at Mount Sinai studying applications of machine learning in neuropathology. I have previous research experience in Combinatorics and Astrophysics. I worked as a software engineer in scalable data infrastructure at a native advertising start up called [Triplelift](https://triplelift.com/). I also write poetry, music, and short stories. 
 
-## Bragging Rights: 
-* [Submitted a Correction to AMBOSS](/files/AmbossProof.png)
-* I made this website and my [wedding website](https://danielkirsten.com)
-* I own my very own [canoe](/files/canoeproof.jpg) 
-* I love my [pets](/files/birthdaydogandcat.jpg) and [travel](/files/lilycold.jpg) with them
-* I collect old books<sup>[1](/files/books1.jpg),[2](/files/books2.jpg),[3](/files/books3.jpg),[4](/files/books4.jpg),[5](/files/books5.jpg)</sup> and other old things<sup>[1](/files/typewriter.JPG)</sup>
-* I've made a ton of origami<sup>[1](/files/origami1.jpg),[2](/files/origami2.jpg),[3](/files/origami3.jpg),[4](/files/origami4.jpg),[5](/files/origami5.jpg)</sup>
-* I love to bake<sup>[1](/files/baking1.jpg),[2](/files/baking2.jpg)</sup> and grow plants<sup>[1](/files/plants.jpg)</sup> with my partner 
-* I once wrote a [book](/files/Java_Primer_for_the_Impatientthanks_Thanks_to_Frank_Cardillo_for_being_my_guinea_pig___Copy_.pdf) of lessons to teach my friend how to program in Java (who is now doing very well working as a software engineer). 
-
-## Einstein Ad Libitum: 
-* [Website](https://www.einsteinmed.edu/students/clubs/ad-libitum/default.aspx?id=15486) 
-* [Vol 19 Spring 21 (Two Poems)](https://www.einsteinmed.edu/docs/Students/Clubs/Ad-libitum/ad-libitum-2021.pdf) 
+## Bragging Rights: I... 
+* Submitted a Correction to AMBOSS<sup>[1](/files/AmbossProof.png)</sup>
+* Made this website and my wedding website<sup>[2](https://danielkirsten.com)</sup>
+* Own my very own [canoe]<sup>[3](/files/canoeproof.jpg)</sup> 
+* Love my pets<sup>[4](/files/birthdaydogandcat.jpg)</sup> and travel<sup>[5](/files/lilycold.jpg)</sup> with them
+* Collect old books<sup>[6](/files/books1.jpg),[7](/files/books2.jpg),[8](/files/books3.jpg),[9](/files/books4.jpg),[10](/files/books5.jpg)</sup> and other old things<sup>[11](/files/typewriter.JPG)</sup>
+* Made a ton of origami<sup>[12](/files/origami1.jpg),[13](/files/origami2.jpg),[14](/files/origami3.JPG),[15](/files/origami4.jpg),[16](/files/origami5.jpg)</sup>
+* Love to bake<sup>[17](/files/baking1.jpg),[18](/files/baking2.jpg)</sup> and grow plants<sup>[19](/files/plants.jpg)</sup> with my partner
+* Published my poetry in the Einstein Ad Libitum<sup>[20](https://www.einsteinmed.edu/students/clubs/ad-libitum/default.aspx?id=15486),[21](https://www.einsteinmed.edu/docs/Students/Clubs/Ad-libitum/ad-libitum-2021.pdf)</sup> arts journal 
+* Once wrote a book<sup>[22](/files/Java_Primer_for_the_Impatientthanks_Thanks_to_Frank_Cardillo_for_being_my_guinea_pig___Copy_.pdf)</sup> of lessons to teach my friend how to program in Java (who is now doing very well working as a software engineer). 
 
 ## Coursework Projects: 
 
