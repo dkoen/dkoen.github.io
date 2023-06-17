@@ -8,7 +8,7 @@ date: 2020-07-28
 location: "Virtual Event"
 ---
 
-https://alz.confex.com/alz/20amsterdam/meetingapp.cgi/ModuleMeetingInfo/0
+[More information here](https://alz.confex.com/alz/20amsterdam/meetingapp.cgi/ModuleMeetingInfo/0)
 
 Background: Post-mortem assessment remains the only option and a gold standard for a definitive diagnosis of Parkinson’s disease (PD). The antemortem diagnosis is challenging due to a variable clinical presentation and the abundance of mimicking conditions, obscuring the clinical picture and delaying the treatment. It is well established that while PD pathologically manifests in central nervous system with aggregation of α-synuclein as Lewy bodies and Lewy neurites, this pathology is also found in the peripheral nervous system. Peripheral Lewy-type synucleinopathy (LTS) is present in early PD, suggesting its utility as a diagnostic and prognostic biomarker. We have previously confirmed that detection of LTS in submandibular gland (SMG) biopsies is sensitive (.75) and specific (.90) for early PD. However, the assessment by a neuropathologist of multiple levels of such biopsy is laborious and time-consuming.
 
