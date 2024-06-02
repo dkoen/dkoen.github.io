@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Today in Daniel Gordon Koenigsberg"
 title_separator          : "-"
 name                     : &name "Daniel G. Koenigsberg"
-description              : &description "Medical Student at Albert Einstein College of Medicine"
+description              : &description "Psychiatry Resident at Nuvance"
 url                      : https://dkoen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "D. G. Koenigsberg"
+  name             : "D. G. Koenigsberg, M.D."
   avatar           : "Screenshot 2020-10-13 214026.png"
-  bio              : "Medical student at Einstein College of Medicine. Researcher in ML applications for Neuropathology at Mount Sinai. Post bacc at Columbia University. Previously software engineer at Triplelift. BA in Mathematics from Brandeis University."
+  bio              : "Psychiatry Resident at Nuvance. Graduate of Albert Einstein College of Medicine. Researcher in deep learning applications for neuropathology at Icahn School of Medicine at Mount Sinai. Post bacc at Columbia University. Previously software engineer at Triplelift in computer vision and scalable data infrastructure. BA in Mathematics, minor in physics, from Brandeis University."
   location         : "NYC"
   employer         :
   pubmed           : 
