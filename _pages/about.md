@@ -1,14 +1,14 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "Learn about DGK"
+excerpt: "Learn about DGK, MD"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a student at [Albert Einstein College of Medicine](https://einsteinmed.edu/) (expected MD 2024) and a recent graduate of the [Certificate in Premedical Sciences](https://gs.columbia.edu/content/postbac-premed-program) program of Columbia University. I am interested in the application of mathematics and technology to medicine and am a current research assistant in the [Crary Lab](http://www.crarylab.org/home.html) at Mount Sinai studying applications of machine learning in neuropathology. I have previous research experience in Combinatorics and Astrophysics. I worked as a software engineer in scalable data infrastructure at a native advertising start up called [Triplelift](https://triplelift.com/). I also write poetry, music, and short stories. 
+Psychiatry Resident at [Nuvance](https://learning.nuvancehealth.org/residency-programs/psychiatry-residency-program/). MD graduate of [Albert Einstein College of Medicine](https://einsteinmed.edu/) and a recent graduate of the [Certificate in Premedical Sciences](https://gs.columbia.edu/content/postbac-premed-program) program of Columbia University. I am interested in the application of mathematics and technology to medicine and am a current researcher in the [Crary Lab](http://www.crarylab.org/home.html) at Mount Sinai studying applications of machine learning in neuropathology. I have previous research experience in Combinatorics and Astrophysics. I worked as a software engineer in scalable data infrastructure at a native advertising start up called [Triplelift](https://triplelift.com/). I also write poetry, music, and short stories. 
 
 <i>[cv](https://dgk.today/cv/)/[publications](https://dgk.today/publications/)/[talks](https://dgk.today/talks/)</i>
 
