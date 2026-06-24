@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Today in Daniel Gordon Koenigsberg, M.D."
 title_separator          : "-"
 name                     : &name "Daniel G. Koenigsberg"
-description              : &description "Psychiatry Resident at Nuvance"
+description              : &description "Psychiatry Resident at Northwell Nuvance"
 url                      : https://dkoen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "D. G. Koenigsberg"
   avatar           : "Screenshot 2020-10-13 214026.png"
-  bio              : "Psychiatry Resident at Nuvance. Graduate of Albert Einstein College of Medicine. Researcher in deep learning applications for neuropathology at Icahn School of Medicine at Mount Sinai. Post bacc at Columbia University. Previously software engineer at Triplelift in computer vision and scalable data infrastructure. BA in Mathematics, minor in physics, from Brandeis University."
+  bio              : "Psychiatry Resident at Northwell Nuvance. Graduate of Albert Einstein College of Medicine. Researcher in deep learning applications for neuropathology at Icahn School of Medicine at Mount Sinai. Post bacc at Columbia University. Previously software engineer at Triplelift in computer vision and scalable data infrastructure. BA in Mathematics, minor in physics, from Brandeis University."
   location         : "NYC"
   employer         :
   pubmed           : 

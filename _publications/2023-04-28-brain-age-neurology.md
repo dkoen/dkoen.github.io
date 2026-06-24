@@ -1,5 +1,5 @@
 ---
-title: "Antemortem detection of Parkinson’s disease pathology in peripheral biopsies using artificial intelligence"
+title: "Histopathologic Brain Age Estimation via Deep Multiple Instance Learning"
 collection: publications
 permalink: /publication/2023-04-28-brain-age-neurology
 excerpt: 'Objective: To identify features of histologic brain aging and clinical correlates of brain age acceleration. 

@@ -3,9 +3,9 @@ title: "Characterizing the Neuropathology of Neuropsychiatric Symptoms in Young 
 collection: talks
 type: "Talk"
 permalink: /talks/2024-01-30-characterizing-the-neuropathology 
-venue: "Alzheimer's Associated International Conference"
+venue: "Boston University Science Meeting"
 date: 2024-01-30
-location: "Virtual Event"
+location: "Boston, MA"
 ---
 
 Internal Talk, Boston University Science Meeting. 

@@ -28,6 +28,19 @@ Education
   Introduction to Combinatorics, Introduction to Quantum Theory, Mathematical Logic, 
   Rings and Fields 
 
+Residency Training
+======
+* Psychiatry Resident, Northwell Nuvance Health Psychiatry Residency Program, 2024-Present
+  * PRITE percentile by year: 99 (PGY-1), 98 (PGY-2)
+  * Child and Adolescent Psychiatry rotation, CCATS Intensive Outpatient Program (IOP) at Danbury Hospital
+  * Teaching and supervision of medical students during clinical rotations
+
+Awards and Honors
+======
+* Academic Achievement Award, Northwell Nuvance Health, PGY-1 and PGY-2 (2024-2025, 2025-2026)
+* Best Research Poster Award, 41st Annual Belsky Research Day, Vassar Brothers Medical Center (2026)
+* Intern of the Year, Northwell Nuvance Health (2024-2025)
+* Einstein Research Fellowship & Senior Research Fellowship, Albert Einstein College of Medicine (2021-22, 2023-24)
 
 Work experience
 ======
