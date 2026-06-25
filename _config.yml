@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Today in Daniel Gordon Koenigsberg, M.D."
+title                    : "Today in DGK"
 title_separator          : "-"
 name                     : &name "Daniel G. Koenigsberg"
 description              : &description "Psychiatry Resident at Northwell Nuvance"
